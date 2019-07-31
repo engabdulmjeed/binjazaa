@@ -1,1 +1,5 @@
-test a app
+x=7
+y=4
+a=x*y
+print(a)
+
